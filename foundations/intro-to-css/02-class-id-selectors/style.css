@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+.odd {
+    background-color: hsl(1, 74%, 81%);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+.no-3 {
+    font-size: 24px;
+}
+#no-2 {
+    color: hsl(240, 100%, 50%);
+    font-size: 32px;
+}
+#no-4 {
+    background-color: hsl(120, 73%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+}
